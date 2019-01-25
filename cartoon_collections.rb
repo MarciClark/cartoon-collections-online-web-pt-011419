@@ -21,6 +21,7 @@ def summon_captain_planet(array)
   end 
 end
   new_array
+end
 
 short_words = ["puff", "go", "two"]
 assorted_words = ["two", "go", "industrious", "bop"]
