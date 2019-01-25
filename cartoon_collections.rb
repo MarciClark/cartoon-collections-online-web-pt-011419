@@ -19,8 +19,8 @@ def summon_captain_planet(array)
     new_array << array[i].capitalize + "!"
     i = i + 1 
   end 
+end
   new_array
-  end
 
 short_words = ["puff", "go", "two"]
 assorted_words = ["two", "go", "industrious", "bop"]
